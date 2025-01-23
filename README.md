@@ -1,0 +1,1 @@
+This project is designed by me on the topic of Multi modal fire detector. Its main funtion is to detect fire in various surrounding. It can detect fire in hot environmental teemperature. it can detect fire in rain as smoke sensor is also involved. moreover it can also detect in cold temperature too. sensors used are smoke sensor, temperature sensor, humidity sensor 
